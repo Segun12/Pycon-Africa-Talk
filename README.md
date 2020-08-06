@@ -8,7 +8,8 @@ This Talk is mostly for Beginners that wants to have practical knowledge of Web 
 
 Knowledge of Python is required.
 
-*Libraries to install*
+## Libraries to install
+
 Installation of Requests and Beautiful Soup library is required.
 pip install requests and pip install BeautifulSoup4
 
